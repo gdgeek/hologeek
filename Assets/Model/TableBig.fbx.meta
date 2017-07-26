@@ -1,0 +1,174 @@
+fileFormatVersion: 2
+guid: 0377ab58aae1702418724070fc35981e
+timeCreated: 1498703331
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: drtwerwe
+    100002: drtwerwessfssss
+    100004: erterebc
+    100006: erterebcsfsf
+    100008: 'Material #2097633907'
+    100010: 'Material #620'
+    100012: 'Material #723'
+    100014: 'Material #741659'
+    100016: 'Material #741859'
+    100018: 'Material #746EWEW3223E'
+    100020: //RootNode
+    100022: wewe
+    100024: WQEQW
+    100026: "\u4F20\u6DF1\u767D\u6F06"
+    100028: "\u66B4\u4E0D\u9508\u94A2\u4EAE\u5149"
+    100030: "\u6728\u59341ssdfs"
+    100032: "\u6807\u51C6_2410000"
+    100034: "\u73BB\u7483"
+    100036: "\u955C\u5B50"
+    100038: "\u9ED1\u7070\u8272\u55B7\u6F06d"
+    400000: drtwerwe
+    400002: drtwerwessfssss
+    400004: erterebc
+    400006: erterebcsfsf
+    400008: 'Material #2097633907'
+    400010: 'Material #620'
+    400012: 'Material #723'
+    400014: 'Material #741659'
+    400016: 'Material #741859'
+    400018: 'Material #746EWEW3223E'
+    400020: //RootNode
+    400022: wewe
+    400024: WQEQW
+    400026: "\u4F20\u6DF1\u767D\u6F06"
+    400028: "\u66B4\u4E0D\u9508\u94A2\u4EAE\u5149"
+    400030: "\u6728\u59341ssdfs"
+    400032: "\u6807\u51C6_2410000"
+    400034: "\u73BB\u7483"
+    400036: "\u955C\u5B50"
+    400038: "\u9ED1\u7070\u8272\u55B7\u6F06d"
+    2300000: drtwerwe
+    2300002: drtwerwessfssss
+    2300004: erterebc
+    2300006: erterebcsfsf
+    2300008: 'Material #2097633907'
+    2300010: 'Material #620'
+    2300012: 'Material #723'
+    2300014: 'Material #741659'
+    2300016: 'Material #741859'
+    2300018: 'Material #746EWEW3223E'
+    2300020: wewe
+    2300022: WQEQW
+    2300024: "\u4F20\u6DF1\u767D\u6F06"
+    2300026: "\u66B4\u4E0D\u9508\u94A2\u4EAE\u5149"
+    2300028: "\u6728\u59341ssdfs"
+    2300030: "\u6807\u51C6_2410000"
+    2300032: "\u73BB\u7483"
+    2300034: "\u955C\u5B50"
+    2300036: "\u9ED1\u7070\u8272\u55B7\u6F06d"
+    3300000: drtwerwe
+    3300002: drtwerwessfssss
+    3300004: erterebc
+    3300006: erterebcsfsf
+    3300008: 'Material #2097633907'
+    3300010: 'Material #620'
+    3300012: 'Material #723'
+    3300014: 'Material #741659'
+    3300016: 'Material #741859'
+    3300018: 'Material #746EWEW3223E'
+    3300020: wewe
+    3300022: WQEQW
+    3300024: "\u4F20\u6DF1\u767D\u6F06"
+    3300026: "\u66B4\u4E0D\u9508\u94A2\u4EAE\u5149"
+    3300028: "\u6728\u59341ssdfs"
+    3300030: "\u6807\u51C6_2410000"
+    3300032: "\u73BB\u7483"
+    3300034: "\u955C\u5B50"
+    3300036: "\u9ED1\u7070\u8272\u55B7\u6F06d"
+    4300000: 'Material #741859'
+    4300002: "\u73BB\u7483"
+    4300004: erterebcsfsf
+    4300006: 'Material #2097633907'
+    4300008: 'Material #723'
+    4300010: drtwerwessfssss
+    4300012: 'Material #746EWEW3223E'
+    4300014: "\u9ED1\u7070\u8272\u55B7\u6F06d"
+    4300016: wewe
+    4300018: "\u955C\u5B50"
+    4300020: 'Material #620'
+    4300022: "\u4F20\u6DF1\u767D\u6F06"
+    4300024: erterebc
+    4300026: "\u6728\u59341ssdfs"
+    4300028: drtwerwe
+    4300030: WQEQW
+    4300032: "\u66B4\u4E0D\u9508\u94A2\u4EAE\u5149"
+    4300034: "\u6807\u51C6_2410000"
+    4300036: 'Material #741659'
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

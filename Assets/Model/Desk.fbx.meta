@@ -1,0 +1,134 @@
+fileFormatVersion: 2
+guid: cfc01b81663c12d438ab4cd0385a7b46
+timeCreated: 1498703373
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: 'Material #2097633912'
+    100004: 'Material #25'
+    100006: 'Material #620'
+    100008: 'Material #701'
+    100010: 'Material #723'
+    100012: "\u6728\u59341sew"
+    100014: "\u6728\u59341ssdfs"
+    100016: "\u6807\u51C6_2410000"
+    100018: "\u6807\u51C6_241000088e"
+    100020: "\u6807\u51C6_2410000sdad88"
+    100022: "\u9ED1\u7070\u8272\u55B7\u6F06d"
+    400000: //RootNode
+    400002: 'Material #2097633912'
+    400004: 'Material #25'
+    400006: 'Material #620'
+    400008: 'Material #701'
+    400010: 'Material #723'
+    400012: "\u6728\u59341sew"
+    400014: "\u6728\u59341ssdfs"
+    400016: "\u6807\u51C6_2410000"
+    400018: "\u6807\u51C6_241000088e"
+    400020: "\u6807\u51C6_2410000sdad88"
+    400022: "\u9ED1\u7070\u8272\u55B7\u6F06d"
+    2300000: 'Material #2097633912'
+    2300002: 'Material #25'
+    2300004: 'Material #620'
+    2300006: 'Material #701'
+    2300008: 'Material #723'
+    2300010: "\u6728\u59341sew"
+    2300012: "\u6728\u59341ssdfs"
+    2300014: "\u6807\u51C6_2410000"
+    2300016: "\u6807\u51C6_241000088e"
+    2300018: "\u6807\u51C6_2410000sdad88"
+    2300020: "\u9ED1\u7070\u8272\u55B7\u6F06d"
+    3300000: 'Material #2097633912'
+    3300002: 'Material #25'
+    3300004: 'Material #620'
+    3300006: 'Material #701'
+    3300008: 'Material #723'
+    3300010: "\u6728\u59341sew"
+    3300012: "\u6728\u59341ssdfs"
+    3300014: "\u6807\u51C6_2410000"
+    3300016: "\u6807\u51C6_241000088e"
+    3300018: "\u6807\u51C6_2410000sdad88"
+    3300020: "\u9ED1\u7070\u8272\u55B7\u6F06d"
+    4300000: "\u6807\u51C6_241000088e"
+    4300002: "\u6807\u51C6_2410000"
+    4300004: "\u9ED1\u7070\u8272\u55B7\u6F06d"
+    4300006: 'Material #2097633912'
+    4300008: 'Material #620'
+    4300010: "\u6728\u59341sew"
+    4300012: 'Material #701'
+    4300014: "\u6728\u59341ssdfs"
+    4300016: 'Material #25'
+    4300018: 'Material #723'
+    4300020: "\u6807\u51C6_2410000sdad88"
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

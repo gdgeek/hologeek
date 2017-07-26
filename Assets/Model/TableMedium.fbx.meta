@@ -1,0 +1,169 @@
+fileFormatVersion: 2
+guid: 164d47b7ea261e349a68de661253c903
+timeCreated: 1498703333
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: 004
+    100002: asdasdasd
+    100004: ERWER
+    100006: 'Material #2097633680'
+    100008: 'Material #2097633911'
+    100010: 'Material #25'
+    100012: 'Material #620'
+    100014: 'Material #741678'
+    100016: Q23232
+    100018: //RootNode
+    100020: wewe
+    100022: "\u66B4\u4E0D\u9508\u94A2\u4EAE\u5149"
+    100024: "\u6728\u59341s"
+    100026: "\u6728\u59341sew"
+    100028: "\u6728\u59341ssdfs"
+    100030: "\u6728\u59341ssdfs 1"
+    100032: "\u6728\u59341ssdfs 2"
+    100034: "\u6807\u51C6_2410000"
+    100036: "\u9ED1\u7070\u8272\u55B7\u6F06d"
+    400000: 004
+    400002: asdasdasd
+    400004: ERWER
+    400006: 'Material #2097633680'
+    400008: 'Material #2097633911'
+    400010: 'Material #25'
+    400012: 'Material #620'
+    400014: 'Material #741678'
+    400016: Q23232
+    400018: //RootNode
+    400020: wewe
+    400022: "\u66B4\u4E0D\u9508\u94A2\u4EAE\u5149"
+    400024: "\u6728\u59341s"
+    400026: "\u6728\u59341sew"
+    400028: "\u6728\u59341ssdfs"
+    400030: "\u6728\u59341ssdfs 1"
+    400032: "\u6728\u59341ssdfs 2"
+    400034: "\u6807\u51C6_2410000"
+    400036: "\u9ED1\u7070\u8272\u55B7\u6F06d"
+    2300000: 004
+    2300002: asdasdasd
+    2300004: ERWER
+    2300006: 'Material #2097633680'
+    2300008: 'Material #2097633911'
+    2300010: 'Material #25'
+    2300012: 'Material #620'
+    2300014: 'Material #741678'
+    2300016: Q23232
+    2300018: wewe
+    2300020: "\u66B4\u4E0D\u9508\u94A2\u4EAE\u5149"
+    2300022: "\u6728\u59341s"
+    2300024: "\u6728\u59341sew"
+    2300026: "\u6728\u59341ssdfs"
+    2300028: "\u6728\u59341ssdfs 1"
+    2300030: "\u6728\u59341ssdfs 2"
+    2300032: "\u6807\u51C6_2410000"
+    2300034: "\u9ED1\u7070\u8272\u55B7\u6F06d"
+    3300000: 004
+    3300002: asdasdasd
+    3300004: ERWER
+    3300006: 'Material #2097633680'
+    3300008: 'Material #2097633911'
+    3300010: 'Material #25'
+    3300012: 'Material #620'
+    3300014: 'Material #741678'
+    3300016: Q23232
+    3300018: wewe
+    3300020: "\u66B4\u4E0D\u9508\u94A2\u4EAE\u5149"
+    3300022: "\u6728\u59341s"
+    3300024: "\u6728\u59341sew"
+    3300026: "\u6728\u59341ssdfs"
+    3300028: "\u6728\u59341ssdfs 1"
+    3300030: "\u6728\u59341ssdfs 2"
+    3300032: "\u6807\u51C6_2410000"
+    3300034: "\u9ED1\u7070\u8272\u55B7\u6F06d"
+    4300000: "\u6728\u59341ssdfs"
+    4300002: 'Material #2097633911'
+    4300004: 'Material #25'
+    4300006: asdasdasd
+    4300008: 'Material #620'
+    4300010: "\u6728\u59341ssdfs"
+    4300012: Q23232
+    4300014: "\u6728\u59341sew"
+    4300016: "\u6807\u51C6_2410000"
+    4300018: "\u6728\u59341s"
+    4300020: 'Material #741678'
+    4300022: "\u9ED1\u7070\u8272\u55B7\u6F06d"
+    4300024: 004
+    4300026: "\u6728\u59341ssdfs"
+    4300028: "\u66B4\u4E0D\u9508\u94A2\u4EAE\u5149"
+    4300030: ERWER
+    4300032: wewe
+    4300034: 'Material #2097633680'
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

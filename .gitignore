@@ -1,0 +1,16 @@
+*.db
+*.opendb
+*.sln
+*.csproj
+*.pfx
+*.pfx.meta
+
+Library/*
+ipch/*
+App/*
+WindowsStoreApp/*
+Temp/*
+
+/.vs
+/Builds
+/build
